@@ -1,4 +1,6 @@
-# Chess Analysis GUI - A Chess Chatbot
+# Chess Chat - A Chess Chatbot
+
+![Chess Analysis GUI Demo](example.gif)
 
 ## Description
 
@@ -24,16 +26,17 @@ As of now, the application uses OpenAI's GPT models for the chatbot functionalit
 ### Prerequisites
 
 - Python 3.x
+- [Stockfish](https://stockfishchess.org/download/) or [LC0 (Leela Chess Zero)](https://lczero.org/play/download/)
+- OpenAI API Key
 - PyQt5
 - chess (Python library)
 - numpy
-- requests
 
 ### Setup
 
 1. Clone the repository:
     ```
-    git clone [Repository-URL]
+    git clone https://github.com/sveinnpalsson/ChessChat
     ```
 2. Install required Python packages:
     ```
