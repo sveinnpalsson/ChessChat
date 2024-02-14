@@ -1,6 +1,6 @@
 # Chess Chat - A Chess Chatbot
 
-![Chess Analysis GUI Demo](example.gif)
+<img src="example.gif" width="80%" alt="Chess Analysis GUI Demo">
 
 ## Description
 
