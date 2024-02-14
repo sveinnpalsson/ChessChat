@@ -46,3 +46,11 @@ As of now, the application uses OpenAI's GPT models for the chatbot functionalit
 ## Usage
 
 Run the main Python script to start the application:
+    ```
+    python main.py --engine_path <path_to_stockfish/lc0>
+    ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
